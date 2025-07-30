@@ -1,0 +1,6 @@
+{
+  "name": "HA Calculator Add-on",
+  "udev": true,
+  "url": "https://github.com/endldp/HA-calc_conv",
+  "maintainer": "endldp"
+}
